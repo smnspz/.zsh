@@ -1,0 +1,6 @@
+alias vim="nvim"
+alias v="vim"
+alias gst="git status"
+alias ls="ls -G"
+alias la="ls -la"
+alias l="ls -l"
